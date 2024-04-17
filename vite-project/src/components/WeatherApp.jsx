@@ -9,8 +9,6 @@ import {
   MDBRow,
   MDBTypography,
 } from "mdb-react-ui-kit";
-
-// Import SVG banner
 import banner from "../assets/banner.jpg";
 
 export default function WeatherApp() {
